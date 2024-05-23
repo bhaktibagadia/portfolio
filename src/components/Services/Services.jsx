@@ -4,7 +4,7 @@ import Services_Data from '../../assets/service_data'
 import arrowicom from '../../assets/arrow_icon.svg'
 const Services = () => {
   return (
-    <div className='services'>
+    <div id='services' className='services'>
       <div className="services-title">
         <h1>Platform <span className='links'>Links</span> </h1>
       </div>
